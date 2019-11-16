@@ -20,7 +20,7 @@ We need to find places without supermarkets in the area, with public places near
 
 We need to get post office locations and their postal codes. We can find it with the Foursquare API. After that, we can see, that Foursquare API returns some locations without postal code. There are also duplicate postal codes. We have to delete such venues.
 
-![PostOffices](C:\Users\azpk3\OneDrive\Documents\GitHub\Coursera_Capstone\Assets\PostOffices.png)
+![PostOffices](https://github.com/trikstor/Coursera_Capstone/blob/master/Assets/PostOffices.png?raw=true)
 
 
 
