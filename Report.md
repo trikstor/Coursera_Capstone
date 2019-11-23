@@ -20,7 +20,7 @@ We need to find places without supermarkets in the area, with public places near
 
 We need to get post office locations and their postal codes. We can find it with the Foursquare API. After that, we can see, that Foursquare API returns some locations without postal code. There are also duplicate postal codes. We have to delete such venues.
 
-![PostOffices](C:\Users\azpk3\OneDrive\Documents\GitHub\Coursera_Capstone\Assets\PostOffices.png)
+![PostOffices](https://github.com/trikstor/Coursera_Capstone/blob/master/Assets/PostOffices.png?raw=true)
 
 
 
@@ -44,7 +44,7 @@ As we rely on people coming to a supermarket it must be accessible by walking no
 
 Social venues:
 
-![SocVenues](C:\Users\azpk3\OneDrive\Documents\GitHub\Coursera_Capstone\Assets\SocVenues.png)
+![SocVenues](https://github.com/trikstor/Coursera_Capstone/blob/master/Assets/SocVenues.png?raw=true)
 
 The largest number of venues:
 
@@ -56,7 +56,7 @@ The largest number of venues:
 
 Competitor venues:
 
-![CompVenues](C:\Users\azpk3\OneDrive\Documents\GitHub\Coursera_Capstone\Assets\CompVenues.png)
+![CompVenues](https://github.com/trikstor/Coursera_Capstone/blob/master/Assets/CompVenues.png?raw=true)
 
 The largest number of venues:
 
@@ -68,7 +68,7 @@ The largest number of venues:
 
 Crowded venues:
 
-![CrowdVenues](C:\Users\azpk3\OneDrive\Documents\GitHub\Coursera_Capstone\Assets\CrowdVenues.png)
+![CrowdVenues](https://github.com/trikstor/Coursera_Capstone/blob/master/Assets/CrowdVenues.png?raw=true)
 
 The largest number of venues:
 
@@ -98,7 +98,7 @@ The DBSCAN model as an alternative approach to prove the result. Use search grid
 
 Ranking result:
 
-![RankingResult](C:\Users\azpk3\OneDrive\Documents\GitHub\Coursera_Capstone\Assets\RankingResult.png)
+![RankingResult](https://github.com/trikstor/Coursera_Capstone/blob/master/Assets/RankingResult.png?raw=true)
 
 The best graded neighborhoods
 
@@ -109,7 +109,7 @@ The best graded neighborhoods
 
 Clusterization result:
 
-![1573901959886](C:\Users\azpk3\AppData\Roaming\Typora\typora-user-images\1573901959886.png)
+![ClusterResult](https://github.com/trikstor/Coursera_Capstone/blob/master/Assets/ClusterResult.png?raw=true)
 
 Outliers:
 
